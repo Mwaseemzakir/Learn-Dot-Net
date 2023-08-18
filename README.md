@@ -27,7 +27,7 @@ This repository contains list of all books for DotNet Developers
 1. [Angular Projects: Build modern web apps in Angular 16, 3rd Edition by Aristeidis Bampakos](https://amzn.to/3DUwJ3j)
 
 # Design Patterns
-1. [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition by Eric Freeman]
+1. [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition by Eric Freeman](https://amzn.to/44eAOK4)
 
 # Interview Preparation
 1. [For design patterns visit Design Gurus and Interview Questions Kit]()
