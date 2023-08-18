@@ -30,4 +30,4 @@ This repository contains list of all books for DotNet Developers
 1. [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition by Eric Freeman](https://amzn.to/44eAOK4)
 
 # Interview Preparation
-1. [For design patterns visit Design Gurus and Interview Questions Kit]()
+1. For design patterns visit [Design Gurus](https://www.designgurus.io/?aff=eh44u9) and [Interview Questions Kit](https://www.designgurus.io/course/grokking-the-coding-interview?aff=eh44u9)
