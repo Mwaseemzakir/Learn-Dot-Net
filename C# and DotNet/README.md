@@ -11,4 +11,6 @@
 
 
 # Free
+1. [Migrate .NET apps to Azure App Service](https://dotnet.microsoft.com/en-us/apps/cloud/migrate-to-azure)
+2. [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/en-us/learn/aspnet/architecture)
 

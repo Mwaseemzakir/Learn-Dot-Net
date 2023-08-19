@@ -4,5 +4,7 @@
 3. C# and .NET
 4. Clean Architecture
 5. Design Patterns
-6. MAUI
-7. React
+6. Devops
+7. MAUI
+8. Microservices
+9. React
