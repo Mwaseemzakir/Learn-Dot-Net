@@ -4,4 +4,7 @@
 3. Newsletters
 4. Youtube Channels
 
+Next coming
+1. Pluralsight coures
+
 
