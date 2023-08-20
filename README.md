@@ -3,9 +3,10 @@
 2. Blazor
 3. C# and .NET
 4. Clean Architecture
-5. DDD
-6. Design Patterns
-7. Devops
-8. MAUI
-9. Microservices
-10. React
+5. Design Patterns
+6. Devops
+7. MAUI
+8. Microservices
+9. React
+
+This list was created after asking many .NET developers , if you would like to add any free or paid book , you can send me email.
