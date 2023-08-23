@@ -11,3 +11,4 @@
 9. [Steve Smith](https://ardalis.com/blog/)
 10. [I Love Dotnet](https://ilovedotnet.org/)
 11. [Coding Sonata](https://codingsonata.com)
+12. [Dave Callan](https://davecallen.com)

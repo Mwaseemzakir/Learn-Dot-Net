@@ -1,11 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Books for Developers",
+    "\\Books for Developers\\SignalR",
+    "\\Self Help Books"
     "\\Books",
     "\\Books\\Angular",
     "\\Books\\AWS",
     "\\Books\\Blazor"
   ],
+  "SelectedNode": "\\Books for Developers\\SignalR\\README.md",
   "SelectedNode": "\\Books\\Blazor\\README.md",
   "PreviewInSolutionExplorer": false
 }
