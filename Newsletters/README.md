@@ -1,8 +1,10 @@
 # List of Newsletters focusing on C# and .NET
 1. [C# Digest](https://csharpdigest.net/)
+	
 	A weekly digest that collects best .NET reources from the world and sends to your inbox
 
 2. [Stefan Dokic](https://stefandjokic.tech/)
+	
 	Weekly newsletter discussing basic-advanced topics of C# and .NET
 
 3. [Milan Jovanovic](https://lnkd.in/dSgrKFDk)
