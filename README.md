@@ -1,10 +1,12 @@
-# This repository contains list of books(Free/Paid) , Youtube Channels, Newsletters and Blogs 
-1. Books
-2. Blogs
-3. Newsletters
+# This repository contains list of .NET Books(Free/Paid), Self Help Books, Youtube Channels, Newsletters and Blogs 
+1. Blogs
+2. Newsletters
+3. Self Help Books
 4. Youtube Channels
+5. Books for Developers
+
 
 Next coming
-1. Pluralsight coures
+1. Pluralsight Coures
 
 
