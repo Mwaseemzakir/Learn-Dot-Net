@@ -4,3 +4,4 @@
 3. [Milan Jovanovic](https://lnkd.in/dSgrKFDk)
 4. [Muhammad Waseem](https://lnkd.in/dNHxJGRG)
 5. [JetBrians](https://lnkd.in/dJFvngkZ)
+6. [CodeMaze](https://code-maze.com/)
