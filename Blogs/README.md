@@ -48,3 +48,7 @@
 13. [Milan Jovanovic](https://www.milanjovanovic.tech/)
 
 	Milan talks on advanced topics of C# and .NET 
+
+14. [Julio  Casal](https://juliocasal.com/)
+
+    With 10+ years of experience Julio talks on basic and advanced topics 

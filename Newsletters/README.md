@@ -21,4 +21,8 @@
 
 6. [CodeMaze](https://code-maze.com/)
 
-	Weekly newsletter providing highlights of .NET for current week.
+	Weekly newsletter providing highlights of .NET for current week
+
+7. [Julio  Casal](https://juliocasal.com/)
+
+    Weekly newsletter talking about C#/.NET/Dockers 
