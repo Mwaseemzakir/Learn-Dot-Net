@@ -51,4 +51,8 @@
 
 14. [Julio  Casal](https://juliocasal.com/)
 
-    With 10+ years of experience Julio talks on basic and advanced topics 
+    With 10+ years of experience Julio talks on basic and advanced topics
+
+15. [Stefan Djokic](https://stefandjokic.tech/)
+
+    Talks on basic and advanced topics of C#/.Net and Patterns 
