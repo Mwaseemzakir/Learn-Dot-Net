@@ -60,3 +60,7 @@ Millions of websites there at the end of day we like few because we undertand th
 15. [Stefan Djokic](https://stefandjokic.tech/)
 
     Talks on basic and advanced topics of C#/.Net and Patterns 
+
+16. [Stevan Giesel](https://steven-giesel.com/)
+
+	This buddy from Zurich will take you in advanced world of .NET, he loves to play with code a lot.
