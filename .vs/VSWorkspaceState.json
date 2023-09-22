@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Blogs",
-    "\\Books for Developers\\Devops",
-    "\\Books for Developers\\SignalR",
-    "\\Newsletters",
-    "\\Self Help Books"
+    "\\Courses",
+    "\\Courses\\edX",
+    "\\Courses\\Udemy"
   ],
-  "SelectedNode": "\\Self Help Books\\README.md",
   "PreviewInSolutionExplorer": false
 }

@@ -48,3 +48,7 @@
 13. [Milan Jovanovic](https://www.milanjovanovic.tech/)
 
 	Milan talks on advanced topics of C# and .NET 
+
+14. [Stevan Giesel](https://steven-giesel.com/)
+
+   This buddy from Zurich will take you in advanced world of .NET, he loves to play with code a lot.
