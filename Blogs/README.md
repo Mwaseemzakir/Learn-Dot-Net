@@ -49,18 +49,26 @@ Millions of websites there at the end of day we like few because we undertand th
 
 	Dave is famous for benchmarking stuff in C# and Visual Studio Tips
 
-13. [Milan Jovanovic](https://www.milanjovanovic.tech/)
+12. [Milan Jovanovic](https://www.milanjovanovic.tech/)
 
 	Milan talks on advanced topics of C# and .NET 
 
-14. [Julio  Casal](https://juliocasal.com/)
+13. [Julio  Casal](https://juliocasal.com/)
 
     With 10+ years of experience Julio talks on basic and advanced topics
 
-15. [Stefan Djokic](https://stefandjokic.tech/)
+14. [Stefan Djokic](https://stefandjokic.tech/)
 
     Talks on basic and advanced topics of C#/.Net and Patterns 
 
-16. [Stevan Giesel](https://steven-giesel.com/)
+15. [Stevan Giesel](https://steven-giesel.com/)
 
 	This buddy from Zurich will take you in advanced world of .NET, he loves to play with code a lot.
+
+# System Designs
+
+16. [Byte Byte Go](https://bytebytego.com/?fpr=muhammad-waseem43)
+
+	If you are new into system designs game then you can not find better place than this site
+	
+	
