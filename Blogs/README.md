@@ -53,6 +53,10 @@ Millions of websites there at the end of day we like few because we undertand th
 
 	Milan talks on advanced topics of C# and .NET 
 
-14. [Stevan Giesel](https://steven-giesel.com/)
+14. [Julio  Casal](https://juliocasal.com/)
 
-   This buddy from Zurich will take you in advanced world of .NET, he loves to play with code a lot.
+    With 10+ years of experience Julio talks on basic and advanced topics
+
+15. [Stefan Djokic](https://stefandjokic.tech/)
+
+    Talks on basic and advanced topics of C#/.Net and Patterns 
