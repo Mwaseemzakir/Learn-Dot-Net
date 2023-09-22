@@ -1,5 +1,9 @@
 # List of Blogging sites creating content on C# and .NET
 
+
+Millions of websites there at the end of day we like few because we undertand their style of teaching. Putting down few good blogging sites along with some famous bloggers, go read and find out whose writings rings the bell in your mind.
+
+
 1. [Code4IT](https://www.code4it.dev/)
 
 	Code4IT buddy is talking on almost all topics basics to advanced in C#
