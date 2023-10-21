@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Blogs",
     "\\Courses",
-    "\\Courses\\edX",
-    "\\Courses\\Udemy"
+    "\\Courses\\Clean Architecture",
+    "\\Youtube Channels"
   ],
+  "SelectedNode": "\\Blogs\\README.md",
   "PreviewInSolutionExplorer": false
 }

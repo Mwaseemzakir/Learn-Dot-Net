@@ -1,7 +1,9 @@
 # List of Blogging sites creating content on C# and .NET
 
 
-Millions of websites there at the end of day we like few because we undertand their style of teaching. Putting down few good blogging sites along with some famous bloggers, go read and find out whose writings rings the bell in your mind.
+Millions of websites there at the end of day we like few because we undertand their style of teaching. 
+
+Putting down few good blogging sites along with some famous bloggers, go read and find out whose writings rings the bell in your mind.
 
 
 1. [Code4IT](https://www.code4it.dev/)
@@ -65,10 +67,18 @@ Millions of websites there at the end of day we like few because we undertand th
 
 	This buddy from Zurich will take you in advanced world of .NET, he loves to play with code a lot.
 
+16. [Steve Gordon](https://www.stevejgordon.co.uk/)
+
+	Steve Gordon is a Microsoft MVP, Pluralsight author, senior engineer and community lead. He works for Elastic. maintaining their .NET language clients. Steve is passionate about community and all things .NET related, having worked with ASP.NET for over 16 years.
+
+	
+17. [Dan Patrascu-Baba](https://danpatrascu.com/)
+
+	Dan is a developer and .NET trainer.
+	
 # System Designs
 
-16. [Byte Byte Go](https://bytebytego.com/?fpr=muhammad-waseem43)
+18. [Byte Byte Go](https://bytebytego.com/?fpr=muhammad-waseem43)
 
 	If you are new into system designs game then you can not find better place than this site
-	
-	
+
