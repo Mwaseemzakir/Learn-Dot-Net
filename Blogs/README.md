@@ -71,14 +71,21 @@ Putting down few good blogging sites along with some famous bloggers, go read an
 
 	Steve Gordon is a Microsoft MVP, Pluralsight author, senior engineer and community lead. He works for Elastic. maintaining their .NET language clients. Steve is passionate about community and all things .NET related, having worked with ASP.NET for over 16 years.
 
-	
 17. [Dan Patrascu-Baba](https://danpatrascu.com/)
 
-	Dan is a developer and .NET trainer.
+	Dan is a developer and .NET trainer. Talks about the Microsoft Cloud, devices and services. Main focus: Office 365 and Microsoft Azure. Our videos will keep you up to date with newest features and services that the Microsoft Cloud can offer. 
 	
+18. [Code to Solutions](https://codetosolutions.com/)
+
+	CodeToSolution.com provides coding solutions to Software Developers on different technical areas like ASP.Net Core, ASP.Net WebApi, ASP.Net MVC, C#, Entity Framework, Angular, Amazon Web Services and Sql Server etc.. and aims to increase productivity and efficiency of the Software Developers.
+	
+19. [Stephan Cleary](https://blog.stephencleary.com/)
+			
+	Microsoft MVP and author of a book on concurrency,asynchronous,parallel and multi threading programming. Loves to write.
+
 # System Designs
 
-18. [Byte Byte Go](https://bytebytego.com/?fpr=muhammad-waseem43)
+1. [Byte Byte Go](https://bytebytego.com/?fpr=muhammad-waseem43)
 
 	If you are new into system designs game then you can not find better place than this site
 
