@@ -12,18 +12,14 @@ List of newsletters which are written by the .NET Developers and are worth subsc
 ##  3. Nuget Packages 
 List of Nuget packages that could be useful for the .NET Developers serving different purposes.
 
-
-##  4. Self Help Books
-This is my personal list of books that I have read and found them useful :)
-
-## 5. Youtube Channels
+## 4. Youtube Channels
 List of Youtube Channels that are worth subscribing for the .NET Developers.
 
-## 6. Books for Developers
+## 5. Books for Developers
 To all book lovers out there, this is the list of books that could be useful for your career.
 
 
-## 7. Pluralsight Courses
+## 6. Pluralsight Courses
 List of some famous authors on Pluralsight.
 
 
