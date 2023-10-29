@@ -66,3 +66,10 @@ List of NuGet Packages and their Purpose in .NET Core, so that you can choose th
 |                           | NFeature                          |
 |                           | FeatureSwitcher                   |
 |                           | FeatureFlags                      |
+| Messaging                 | MassTransit                       |
+|                           | RabbitMQ.Client                   |
+|                           | Nats.Client                       |
+|                           | EasyNetQ                          |
+| Real-Time Communication   | SignalR                           |
+| API Documentation         | Swashbuckle.AspNetCore            |
+|                           | NSwag.AspNetCore                  |
