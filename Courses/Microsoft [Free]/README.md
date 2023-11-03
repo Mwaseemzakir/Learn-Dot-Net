@@ -1,4 +1,9 @@
-# Microsoft Free Courses
+## Find your desired course
+
+Search your desired course from [Microsoft Learning](https://learn.microsoft.com/en-us/training/browse/) with 4000+ courses and 100+ learning paths.
+
+
+## Microsoft free courses
 1. [Get started with Azure Cosmos DB for NoSQL](https://learn.microsoft.com/en-us/training/paths/get-started-azure-cosmos-db-sql-api/)
 	
 	Learn about the Azure Cosmos DB for NoSQL and how to get started with your first account, database, and container.This course is for intermediate level
