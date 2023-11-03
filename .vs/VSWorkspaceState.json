@@ -2,9 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Blogs",
-    "\\Courses",
+    "\\Books",
+    "\\Books\\Concurrency",
+    "\\Books\\DDD",
+    "\\Interview Questions",
+    "\\Nuget Packages",
     "\\Youtube Channels"
   ],
-  "SelectedNode": "\\Blogs\\README.md",
+  "SelectedNode": "\\Interview Questions\\README.MD",
   "PreviewInSolutionExplorer": false
 }
