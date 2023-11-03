@@ -1,4 +1,4 @@
-# Books by Category [ Free ]
+# Books - Free
 
 ## C# and .NET
 1. [Migrate .NET apps to Azure App Service](https://dotnet.microsoft.com/en-us/apps/cloud/migrate-to-azure)

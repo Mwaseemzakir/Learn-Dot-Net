@@ -1,4 +1,5 @@
-# Books by Category [ Paid]
+# Books - Paid
+
 This is list of books that are famous among developers. I have tried to categorize them in different categories. 
 
 I have also added links to the books. If you buy the books using the links, I will get a small commission from Amazon :) 
@@ -61,6 +62,9 @@ If you think I have missed any book, please let me know. I will add it to the li
 1. [Mastering Kubernetes: Dive into Kubernetes and learn how to create and operate world-class cloud-native systems, 4th Edition by 
  Gigi Sayfan](https://amzn.to/3qIFJFB)
 
+ ## gRPC
+ 1. [Beginning gRPC with ASP.NET Core 6: Build Applications using ASP.NET Core Razor Pages, Angular, 
+and Best Practices in .NET 6 by Anthony Giretti ](https://amzn.to/46U6oPN)
 
  ## MAUI
  1. [.NET MAUI in Action by Matt Goldman](https://amzn.to/3DZF9GC)
