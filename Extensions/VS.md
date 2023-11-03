@@ -18,3 +18,6 @@ Here are some helpful extensions for Visual Studio Code that can help you with y
 | Prettier - Code formatter	| Code formatter using prettier								|
 | VS Color Output			| Colorize build and debug output							|
 | File Icons				| File-specific icons for improved visual grepping			|
+| Github Copilot			| AI-assisted development									|
+| Live Share				| Real-time collaborative development						|
+
