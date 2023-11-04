@@ -3,7 +3,8 @@
 
 Millions of websites there at the end of day we like few because we undertand their style of teaching. 
 
-Putting down few good blogging sites along with some famous bloggers, go read and find out whose writings rings the bell in your mind.
+Putting down few good blogging sites along with some famous bloggers, go read and find out whose writings rings the bell in your mind.  :smile:
+ 
 
 
 1. [Code4IT](https://www.code4it.dev/)
@@ -87,6 +88,9 @@ Putting down few good blogging sites along with some famous bloggers, go read an
 
 	Elmah is a error logging service for .NET web applications. They have a blog as well where they talk about .NET and C#.
 
+15. [Code Guru](https://www.codeguru.com/)
+
+	CodeGuru covers topics related to Microsoft-related software development, mobile development, database management, and web application programming. In addition to tutorials and how-tos that teach programmers how to code in Microsoft-related languages and frameworks like C# and .Net, we also publish articles on software development tools, the latest in developer news, and advice for project managers. Cloud services such as Microsoft Azure and database options including SQL Server and MSSQL are also frequently covered.
 # System Designs
 
 1. [Byte Byte Go](https://bytebytego.com/?fpr=muhammad-waseem43)

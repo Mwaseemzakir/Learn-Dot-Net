@@ -2,7 +2,7 @@
 
 This is list of books that are famous among developers. I have tried to categorize them in different categories. 
 
-I have also added links to the books. If you buy the books using the links, I will get a small commission from Amazon :) 
+I have also added links to the books. If you buy the books using the links, I will get a small commission from Amazon :smile:
 
 If you think I have missed any book, please let me know. I will add it to the list.
 
