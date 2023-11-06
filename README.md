@@ -33,6 +33,9 @@ Categorised by the topics:
 ## 7. [Podcasts](./Podcasts/README.md)			
 Some free podcasts for the .NET Developers.
 
+## 8. [Tools](./Tools/README.md)
+List of some tools that you need to have in your toolbox.
+
 ## [About Me](#about-me)
 
 I am Muhammad Waseem from Pakistan , Senior Software Enineer (.NET) and a tech enthusiast. 
@@ -45,4 +48,9 @@ For weekly dose of .NET related content, you can subscribe to my newsletter [her
 
 If this repository helped you in any way, keep me in your prayers
 
-Hakuna Matata :blush:
+
+
+<blockquote style="font-size: 28px;">
+  <p>What you seek is seeking you - Rumi</p>
+</p>
+
