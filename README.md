@@ -28,7 +28,7 @@ Categorised by the topics:
 
 1. [Free](./Courses/FREE.md) 
 2. [Paid](./Courses/PAID.md)
-3. [Pluralsight](./Courses/PLURALSIGHT.md)
+3. [Pluralsight](./Courses/PLURALSIGHT.MD)
 	
 ## 7. [Podcasts](./Podcasts/README.md)			
 Some free podcasts for the .NET Developers.
