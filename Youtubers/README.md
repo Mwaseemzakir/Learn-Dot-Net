@@ -3,7 +3,7 @@
 
 ## 1. [Dotnet](https://bit.ly/3L2CUqn)
 
-## 2. [Kudvenkat](https://bit.ly/3MGsSfK)
+## 2. [Kudvenkat](https://bit.ly/3MGsSfK) :heart:
 
 ## 3. [QuestPond](https://bit.ly/3N303KP)
 
@@ -47,3 +47,5 @@ Paid Courses at [Les Jackson](https://lesjackson.net/home)
 ## 15. [Code Wrinkles](https://lnkd.in/dKGrvSuE)
 
 ## 16. [Saeed Esmaeelinejad](https://www.youtube.com/@sa-es-ir)
+
+## 17. [Scott Hanselman](https://www.youtube.com/@shanselman/featured)

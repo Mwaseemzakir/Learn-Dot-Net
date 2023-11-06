@@ -84,13 +84,18 @@ Putting down few good blogging sites along with some famous bloggers, go read an
 			
 	Microsoft MVP and author of a book on concurrency,asynchronous,parallel and multi threading programming. Loves to write.
 	
-14. [Elmah](https://blog.elmah.io/)
+20. [Elmah](https://blog.elmah.io/)
 
 	Elmah is a error logging service for .NET web applications. They have a blog as well where they talk about .NET and C#.
 
-15. [Code Guru](https://www.codeguru.com/)
+21. [Code Guru](https://www.codeguru.com/)
 
-	CodeGuru covers topics related to Microsoft-related software development, mobile development, database management, and web application programming. In addition to tutorials and how-tos that teach programmers how to code in Microsoft-related languages and frameworks like C# and .Net, we also publish articles on software development tools, the latest in developer news, and advice for project managers. Cloud services such as Microsoft Azure and database options including SQL Server and MSSQL are also frequently covered.
+	CodeGuru covers topics related to Microsoft-related software development, mobile development, database management, and web application programming. In addition to tutorials and how-tos that teach programmers how to code in Microsoft-related languages and frameworks like C# and .Net.
+
+22. [Rahul Nath](https://www.rahulpnath.com/blog/)
+	
+	Coder, youtuber and a blogger. Talks about C#, .NET and Azure stuff.
+
 # System Designs
 
 1. [Byte Byte Go](https://bytebytego.com/?fpr=muhammad-waseem43)
