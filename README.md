@@ -4,24 +4,29 @@ This repository contains the resources list for the .NET Developers which includ
 
 
 ## 1. Blogs
-List of blogs which are written by the .NET Developers and are worth reading.
+Hey ! Are you looking for some good blogs to read ? Check out the list and disocver your favourite blogger.
 
 ##  2. Newsletters
 List of newsletters which are written by the .NET Developers and are worth subscribing.
 
-##  3. Nuget Packages 
-List of Nuget packages that could be useful for the .NET Developers serving different purposes.
+##  3. Libraries
+Let me help you to find the right library for your next project.
 
-## 4. Youtube Channels
-List of Youtube Channels that are worth subscribing for the .NET Developers.
+## 4. Youtubers
+List of some famous names along with their paid courses and free content.
 
-## 5. Books for Developers
-To all book lovers out there, this is the list of books that could be useful for your career.
+## 5. Books
+Categorised by the topics:
+1. Free
+2. Paid
 
-
-## 6. Pluralsight Courses
-List of some famous authors on Pluralsight.
-
+## 6. Courses
+1. Free 
+2. Paid 
+3. Pluralsight 
+	
+## 7. Podcasts			
+Some free podcasts for the .NET Developers.
 
 ## About Me
 
@@ -32,3 +37,7 @@ I love to learn new things and share my knowledge with others.
 I mostly share my knowledge on [LinkedIn](linkedin.com/in/mwaseemzakir/) and [Twitter](https://twitter.com/mwaseemzakir) and [Medium](http://medium.com/@mwaseemzakir)
 
 For weekly dose of .NET related content, you can subscribe to my newsletter [here](https://waseemzakir.substack.com/)
+
+If this repository helped you in any way, keep me in your prayers
+
+Hakuna Matata :blush:

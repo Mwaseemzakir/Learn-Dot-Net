@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Podcasts"
+    "\\Blogs",
+    "\\Courses",
+    "\\Newsletters",
+    "\\Youtubers"
   ],
-  "SelectedNode": "\\Podcasts\\README.md",
+  "SelectedNode": "\\Newsletters\\NewFile",
   "PreviewInSolutionExplorer": false
 }

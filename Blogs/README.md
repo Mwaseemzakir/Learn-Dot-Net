@@ -6,7 +6,6 @@ Millions of websites there at the end of day we like few because we undertand th
 Putting down few good blogging sites along with some famous bloggers, go read and find out whose writings rings the bell in your mind.  :smile:
  
 
-
 1. [Code4IT](https://www.code4it.dev/)
 
 	Code4IT buddy is talking on almost all topics basics to advanced in C#

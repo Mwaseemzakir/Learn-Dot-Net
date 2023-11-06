@@ -18,7 +18,7 @@ List of NuGet Packages and their Purpose in .NET Core, so that you can choose th
 |                            | Scrutor                                       |
 |                            | Lamar                                         |
 |                            | Microsoft.Extensions.DependencyInjection      |
-| ** Testing**				 | xUnit                                         |
+| **Testing**				 | xUnit                                         |
 |                            | NUnit                                         |
 |                            | MSTest                                        |
 |                            | SpecFlow                                      |
