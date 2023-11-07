@@ -85,3 +85,6 @@ and Best Practices in .NET 6 by Anthony Giretti ](https://amzn.to/46U6oPN)
 ## Real Time Communication
 
 1. [SignalR on .NET 6 - the Complete Guide: The easiest way to enable real-time two-way HTTP communication on .NET 6 by  Fiodar Sazanavets](https://amzn.to/3QMOER6)
+
+### Unit Testing
+1. [Unit Testing Principles, Practices, and Patterns: Effective testing styles, patterns, and reliable automation for unit testing, mocking, and integration testing with examples in C#](https://amzn.to/47eJuCw)

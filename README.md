@@ -24,6 +24,9 @@ List of newsletters which are written by the .NET Developers and are worth subsc
 ## [Libraries](./Libraries/README.MD)
 Let me help you to find the right library for your next project.
 
+## [Extensions](./Extensions/README.md.md)
+Some useful extensions for the Visual Studio.
+
 ## [Youtubers](./Youtubers/README.md)
 List of some famous names along with their paid courses and free content.
 
