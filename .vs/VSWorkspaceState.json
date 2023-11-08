@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Books",
+    "\\Courses",
+    "\\Extensions",
+    "\\Newsletters",
     "\\Tools"
   ],
-  "SelectedNode": "\\Libraries",
+  "SelectedNode": "\\Newsletters\\README.md",
   "PreviewInSolutionExplorer": false
 }

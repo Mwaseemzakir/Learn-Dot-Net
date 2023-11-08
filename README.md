@@ -32,8 +32,8 @@ List of some famous names along with their paid courses and free content.
 
 ## [Books](./Books/README.MD)
 Categorised by the topics:
-1. [Free](./Books/FREE.md)
-2. [Paid](./Books/PAID.md)
+1. [Free](./Books/FREE.MD)
+2. [Paid](./Books/PAID.MD)
 
 ## [Courses](./Courses/README.md)
 
