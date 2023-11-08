@@ -1,5 +1,7 @@
 # Some of the best Pluralsight authors in .NET and C#
 
+**Disclosure:** Links marked with an asterisk (*) are affiliate links. I may earn a commission if you make a purchase through these links at no additional cost to you.
+
 ### [Steve Gordon](https://app.pluralsight.com/profile/author/steve-gordon)
 
  ### Courses : 10+
@@ -33,7 +35,7 @@ Paolo Perrotta is the author of "Programming Machine Learning" and "Metaprogramm
 
  ### Courses : 10+
 
-Vladimir Khorikov is the author of the book [Unit Testing Principles, Practices, and Patterns](https://amzn.to/47eJuCw) He has been professionally involved in software development for over 15 years, including mentoring teams on the ins and outs of unit testing. He's also the founder of the Enterprise Craftsmanship blog, where he reaches 500 thousand software developers yearly. He started as an adviser on general programming topics, but lately has shifted his focus to unit testing with a central message of teaching software developers how to make unit testing painless.
+Vladimir Khorikov is the author of the book [Unit Testing Principles, Practices, and Patterns *](https://amzn.to/47eJuCw) He has been professionally involved in software development for over 15 years, including mentoring teams on the ins and outs of unit testing. He's also the founder of the Enterprise Craftsmanship blog, where he reaches 500 thousand software developers yearly. He started as an adviser on general programming topics, but lately has shifted his focus to unit testing with a central message of teaching software developers how to make unit testing painless.
 
 ### [Gill Cleeren](https://www.pluralsight.com/authors/gill-cleeren)
 
@@ -64,3 +66,5 @@ Kevin Dockx is a freelance solution architect, author & consultant, living in An
 ### Courses : 10+
 
 David Berry is a software engineer with over 15 years of application development experience. He started developing software in Java 1.0 using an Oracle 7 backend. Making the switch to Microsoft .NET when it was released, he has worked with every version of .NET since. He has also worked with every version of Oracle since Oracle 7 and ever version of SQL Server since SQL Server 7. His experience spans a broad range of industries including semiconductors, financial services, insurance an government. In his free time, he enjoys going on long distance rides on his road bike and cross country skiing during the Wisconsin winters.
+
+

@@ -1,29 +1,27 @@
 # Books - Paid
 
-This is list of books that are famous among developers. I have tried to categorize them.
+This is list of books that are famous among developers. I have tried to categorize them according technology and topics.
 
-I have also added links to the books. If you buy the books using the links, I will get a small commission from Amazon :smile:
-
-If you think I have missed any book, please let me know. I will add it to the list.
+**Disclosure:** Links on this page are affiliate links. I may earn a commission if you make a purchase through these links at no additional cost to you.
 
 ## Angular
 1. [Angular Projects: Build modern web apps in Angular 16, 3rd Edition by Aristeidis Bampakos](https://amzn.to/3DUwJ3j)
 
 
-2. [Learning Angular: A no-nonsense guide to building web applications with Angular 15, 4th Edition 4th ed. Edition by Aristeidis Bampakos](https://amzn.to/3OHllMX)
+2. [Learning Angular: A no-nonsense guide to building web applications with Angular 15, 4th Edition 4th ed. Edition by Aristeidis Bampakos](https://amzn.to/3OHllMX) 
 
 ## AWS
 
-1. [AWS for Solutions Architects: The definitive guide to AWS Solutions Architecture for migrating to, building, scaling, and succeeding in the cloud, 2nd Edition by  Saurabh Shrivastava](https://amzn.to/3smyPq8)
+1. [AWS for Solutions Architects: The definitive guide to AWS Solutions Architecture for migrating to, building, scaling, and succeeding in the cloud, 2nd Edition by  Saurabh Shrivastava](https://amzn.to/3smyPq8) 
 
 
 2. [Developing on AWS with C#: A Comprehensive Guide on Using C# to Build Solutions on the AWS Platform 1st Edition](https://a.co/d/0ktXHUR)
 ## Blazor
-1. [Web Development with Blazor by Jimmy Engstrom](https://amzn.to/3qZfH0E)
+1. [Web Development with Blazor by Jimmy Engstrom](https://amzn.to/3qZfH0E) 
 
-2. [Blazor WebAssembly By Example by Toi B.Wright](https://amzn.to/3Jvn0DD)
+2. [Blazor WebAssembly By Example by Toi B.Wright](https://amzn.to/3Jvn0DD) 
 
-3. [Apps and Services with .NET 7: Build practical projects with Blazor, .NET MAUI, gRPC, GraphQL, and other enterprise technologies](https://amzn.to/3E0Qsy5)
+3. [Apps and Services with .NET 7: Build practical projects with Blazor, .NET MAUI, gRPC, GraphQL, and other enterprise technologies](https://amzn.to/3E0Qsy5) 
 
 
 ## C# and .NET
@@ -86,5 +84,5 @@ and Best Practices in .NET 6 by Anthony Giretti ](https://amzn.to/46U6oPN)
 
 1. [SignalR on .NET 6 - the Complete Guide: The easiest way to enable real-time two-way HTTP communication on .NET 6 by  Fiodar Sazanavets](https://amzn.to/3QMOER6)
 
-### Unit Testing
+## Unit Testing
 1. [Unit Testing Principles, Practices, and Patterns: Effective testing styles, patterns, and reliable automation for unit testing, mocking, and integration testing with examples in C#](https://amzn.to/47eJuCw)

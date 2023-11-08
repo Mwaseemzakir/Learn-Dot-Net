@@ -9,6 +9,7 @@ This repository contains the resources list for the .NET Developers which includ
 - [Courses](./Courses/README.md)
 - [Podcasts](./Podcasts/README.md)
 - [Tools](./Tools/README.md)
+- [About Author](#about-me)
 
 
 ## [Blogs](./Blogs/README.md)
@@ -24,7 +25,7 @@ List of newsletters which are written by the .NET Developers and are worth subsc
 ## [Libraries](./Libraries/README.MD)
 Let me help you to find the right library for your next project.
 
-## [Extensions](./Extensions/README.md.md)
+## [Extensions](./Extensions/README.md)
 Some useful extensions for the Visual Studio.
 
 ## [Youtubers](./Youtubers/README.md)
@@ -60,3 +61,28 @@ For weekly dose of .NET related content, you can subscribe to my newsletter [her
 If this repository helped you in any way, keep me in your prayers
 
 > What you seek is seeking you - Rumi
+
+# [Repository Disclosure](#about-repo-disclosure)
+
+1. [Contribution Inclusion](#about-contribution-inculsion)			
+2. [Repository Purpose](#about-repo-purpose)
+3. [Affiliate Link Disclosure](#about-affiliates)
+
+
+## [Contribution Inclusion](#about-contribution-inculsion)
+
+1. This repository is open to contributions, and individuals/sites/courses/blogs not currently listed may be added in the future.
+
+2. The author welcomes contributions from anyone, provided that addition would be valuable to the .NET community.
+
+## [Repository Purpose](#about-repo-purpose)
+
+This repository is designed to support individuals in the .NET community. The author intends to continuously expand and enhance its content to provide valuable resources to the community.
+
+## [Affiliate Link Disclosure](#about-affiliates)
+
+Links marked with an asterisk (*) in this repository are affiliate links. If you click on these links and make a purchase, the author may earn a commission at no additional cost to you. 
+
+
+
+
