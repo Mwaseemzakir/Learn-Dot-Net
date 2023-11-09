@@ -1,6 +1,6 @@
-# About this sections	
+# Unveiling the Books
 
-This section is about the following topics:
+This section includes :
 
-1. List of free books and resources
-2. List of paid resources
+1. [Free Books](./Books/FREE.MD)
+2. [Paid Books](./Books/PAID.MD)
