@@ -1,5 +1,7 @@
 # [Learn .NET ](#about-this-repository)
 
+  [![HitCount](https://hits.dwyl.com/mwaseemzakir/Learn-Dot-Net.svg?style=flat)](http://hits.dwyl.com/mwaseemzakir/Learn-Dot-Net)
+
 This repository contains the resources list for the .NET Developers which includes the following:
 - [Blogs](./Blogs/README.md)
 - [Newsletters](./Newsletters/README.md)
