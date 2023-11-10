@@ -1,8 +1,8 @@
-# NuGet Packages and their Purpose
+# [Libraries]()
 
 List of NuGet Packages and their Purpose in .NET Core, so that you can choose the right package for your project.
 
-## Choosing the right package
+## [Choose the right package]()
 
 | **Purpose**                | **Package Name**                              |
 | -------------------------- | ----------------------------------------------|
