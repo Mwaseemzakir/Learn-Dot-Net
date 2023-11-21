@@ -81,7 +81,6 @@ But all of them are great. I have learned a lot from them. I hope you will too. 
 
 [![$ Paid Courses](https://img.shields.io/badge/Paid%20Courses-Explore%20Now-blue)](https://lesjackson.net/home)
 
-
 ## [15. Code Wrinkles](https://lnkd.in/dKGrvSuE)
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyTPru-1gZ7-4qblcKM0TiQ?style=social)](https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ)
@@ -104,6 +103,8 @@ But all of them are great. I have learned a lot from them. I hope you will too. 
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq8LldVrjqe61KQttZlLW8g?style=social)](https://www.youtube.com/channel/UCq8LldVrjqe61KQttZlLW8g)
 
-
 [![$ Paid Courses](https://img.shields.io/badge/Paid%20Courses-Explore%20Now-blue)](https://www.dotnetwebacademy.com/courses/academy)
 
+## [20. Dev Leader](https://youtube.com/@devleader)
+
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJ90Is0z9KIyNSufH--IwRg?style=social)](https://www.youtube.com/@devleader)
