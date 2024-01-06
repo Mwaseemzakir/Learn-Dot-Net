@@ -108,3 +108,7 @@ But all of them are great. I have learned a lot from them. I hope you will too. 
 ## [20. Dev Leader](https://youtube.com/@devleader)
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJ90Is0z9KIyNSufH--IwRg?style=social)](https://www.youtube.com/@devleader)
+
+## [21. Muhammad Waseem](https://www.youtube.com/@mwaseemzakir)
+
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgKGlfkNAmIBprbI35C6SpQ?style=social)](https://www.youtube.com/@mwaseemzakir)
