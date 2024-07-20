@@ -80,7 +80,8 @@ Putting down few good blogging sites along with some famous bloggers, go read an
 	CodeToSolution.com provides coding solutions to Software Developers on different technical areas like ASP.Net Core, ASP.Net WebApi, ASP.Net MVC, C#, Entity Framework, Angular, Amazon Web Services and Sql Server etc.. and aims to increase productivity and efficiency of the Software Developers.
 	
 19. [Stephan Cleary](https://blog.stephencleary.com/)
-			
+
+			
 	Microsoft MVP and author of a book on concurrency,asynchronous,parallel and multi threading programming. Loves to write.
 	
 20. [Elmah](https://blog.elmah.io/)
@@ -94,6 +95,10 @@ Putting down few good blogging sites along with some famous bloggers, go read an
 22. [Rahul Nath](https://www.rahulpnath.com/blog/)
 	
 	Coder, youtuber and a blogger. Talks about C#, .NET and Azure stuff.
+
+23. [Rmauro Dev](https://rmauro.dev)
+
+	Your go-to source for insights, tips, and tricks on building robust, scalable, and secure web applications using C#, Azure, and web technologies.
 
 # System Designs
 
