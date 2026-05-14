@@ -94,3 +94,23 @@ and Best Practices in .NET 6 by Anthony Giretti ](https://amzn.to/46U6oPN)
 # 🧪 Unit Testing
 
 1. [Unit Testing Principles, Practices, and Patterns: Effective testing styles, patterns, and reliable automation for unit testing, mocking, and integration testing with examples in C#](https://amzn.to/47eJuCw)
+
+2. [The Art of Unit Testing by Roy Osherove](https://www.amazon.com/s?k=The+Art+of+Unit+Testing+Osherove)
+
+# ⚙️ Performance
+
+1. [Pro .NET Memory Management by Konrad Kokosa](https://www.amazon.com/s?k=Pro+NET+Memory+Management+Kokosa)
+
+	Deep dive into how .NET memory works, garbage collection internals, and how to write allocation-efficient code.
+
+# 🔁 Functional Programming
+
+1. [Functional Programming in C# by Enrico Buonanno](https://www.amazon.com/s?k=Functional+Programming+in+C+Sharp+Buonanno)
+
+	Learn how to apply functional programming principles like immutability, higher-order functions, and monads in C#.
+
+# 🌐 Distributed Systems
+
+1. [Designing Distributed Systems by Brendan Burns](https://www.amazon.com/s?k=Designing+Distributed+Systems+Brendan+Burns)
+
+	Patterns and paradigms for scalable, reliable distributed systems — relevant for .NET microservices architects.

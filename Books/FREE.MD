@@ -27,4 +27,28 @@
 
 1. [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture)
 
+## Containerization
+
+1. [Containerized Docker Application Lifecycle](https://dotnet.microsoft.com/en-us/learn/aspnet/architecture)
+
+	End-to-end guidance for building and deploying containerized .NET apps with Docker and Azure.
+
+## gRPC
+
+1. [gRPC for WCF Developers](https://learn.microsoft.com/en-us/dotnet/architecture/grpc-for-wcf-developers/)
+
+	Free Microsoft e-book on migrating from WCF to gRPC in .NET.
+
+## Blazor
+
+1. [Blazor for ASP.NET Web Forms Developers](https://learn.microsoft.com/en-us/dotnet/architecture/blazor-for-web-forms-developers/)
+
+	Free Microsoft e-book for Web Forms developers looking to move to Blazor.
+
+## Cloud Native
+
+1. [Architecting Cloud-Native .NET Applications for Azure](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/)
+
+	Free Microsoft guide to building cloud-native applications with .NET and Azure.
+
 

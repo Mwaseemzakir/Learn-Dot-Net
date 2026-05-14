@@ -13,6 +13,14 @@
 
 	Weekly newsletter of a consistent .NET content cretaor who is trying to help people in undertsnading C# and .NET in better ways
 
-4. [Julio  Casal](https://juliocasal.com/)
+4. [Julio Casal](https://juliocasal.com/)
 
-    Weekly newsletter talking about C#/.NET/Dockers 
+	Weekly newsletter talking about C#/.NET/Docker
+
+5. [Andrew Lock](https://andrewlock.net/newsletter/)
+
+	Deep dives into ASP.NET Core internals, middleware, and advanced .NET features.
+
+6. [Khalid Abuhakmeh](https://khalidabuhakmeh.com/)
+
+	JetBrains developer advocate sharing .NET tips, Rider features, and open source discoveries. 

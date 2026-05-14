@@ -20,4 +20,12 @@ These newsletters either provid links to articles or articles that don't include
 
 5. [Tech World with Milan](https://newsletter.techworld-with-milan.com/)
 
-	This tech newsletter is highly relevant for software engineers, architects, engineering managers, and anyone interested in tech
+	This tech newsletter is highly relevant for software engineers, architects, engineering managers, and anyone interested in tech.
+
+6. [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
+
+	In-depth analysis of engineering culture, career growth, and technology trends at top tech companies.
+
+7. [Software Lead Weekly](https://softwareleadweekly.com/)
+
+	Weekly articles on engineering leadership, team management, and career development for software engineers.

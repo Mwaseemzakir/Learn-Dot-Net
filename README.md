@@ -11,6 +11,13 @@ This repository contains the resources list for the .NET Developers which includ
 - [Courses](./Courses/README.md)
 - [Podcasts](./Podcasts/README.md)
 - [Tools](./Tools/README.md)
+- [Roadmaps](./Roadmaps/README.MD)
+- [Conferences](./Conferences/README.md)
+- [Open Source Projects](./OpenSource/README.md)
+- [Community & Forums](./Community/README.md)
+- [Interview Prep](./InterviewPrep/README.md)
+- [Cheat Sheets](./CheatSheets/README.md)
+- [GitHub Profiles](./GitHubProfiles/README.md)
 - [About Author](#about-me)
 
 
@@ -49,6 +56,27 @@ Some free podcasts for the .NET Developers.
 
 ## [Tools](./Tools/README.md)
 List of some tools that you need to have in your toolbox.
+
+## [Roadmaps](./Roadmaps/README.MD)
+Role-based learning paths for Junior, Mid-Level, and Senior .NET developers, plus technology-specific roadmaps.
+
+## [Conferences](./Conferences/README.md)
+Major .NET and C# conferences — in-person and virtual — where you can learn, network, and stay ahead.
+
+## [Open Source Projects](./OpenSource/README.md)
+Notable open source .NET projects from Microsoft and the community to learn from, use, and contribute to.
+
+## [Community & Forums](./Community/README.md)
+Where to connect with other .NET developers — Stack Overflow, Reddit, Discord servers, and more.
+
+## [Interview Prep](./InterviewPrep/README.md)
+Topics to master and resources to use when preparing for .NET developer interviews.
+
+## [Cheat Sheets](./CheatSheets/README.md)
+Quick reference guides for C#, LINQ, async/await, EF Core, Docker, and Git.
+
+## [GitHub Profiles](./GitHubProfiles/README.md)
+Notable .NET developers to follow on GitHub for great open source code and projects.
 
 ## [About Me](#about-me)
 
