@@ -21,6 +21,7 @@ This repository contains the resources list for the .NET Developers which includ
 - [GitHub Profiles](./docs/github-profiles.md)
 - [Extensions](./docs/extensions.md)
 - [Websites](./docs/websites.md)
+- [AI Tools](./docs/ai-tools.md)
 - [Content Creators](./docs/content-creators.md)
 - [About Author](#about-me)
 
