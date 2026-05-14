@@ -1,6 +1,6 @@
-﻿#  [World of .NET Youtubers](@about-dotnet-youtubers)
+# World of .NET Youtubers
 
-Youtubers with emojies are my personal favorites. 
+Youtubers with emojies are my personal favorites.
 
 But all of them are great. I have learned a lot from them. I hope you will too. :smile:
 
@@ -45,7 +45,6 @@ But all of them are great. I have learned a lot from them. I hope you will too. 
 ## [8. FreecodeCamp](https://bit.ly/3GMDVQC)
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8butISFwT-Wl7EV0hUK0BQ?style=social)](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-
 
 [![$ Paid Courses](https://img.shields.io/badge/Paid%20Courses-Explore%20Now-blue)](https://www.freecodecamp.org/news/tag/online-courses/)
 

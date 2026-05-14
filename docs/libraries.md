@@ -1,8 +1,8 @@
-# [Libraries]()
+# Libraries
 
 List of NuGet Packages and their purpose in .NET, so that you can choose the right package for your next project.
 
-## [Choose the right package]()
+## Choose the right package
 
 | **Purpose** | **Package** | **Description** |
 | --- | --- | --- |

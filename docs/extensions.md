@@ -20,4 +20,3 @@ Here are some helpful extensions for Visual Studio Code that can help you with y
 | File Icons				| File-specific icons for improved visual grepping			|
 | Github Copilot			| AI-assisted development									|
 | Live Share				| Real-time collaborative development						|
-
