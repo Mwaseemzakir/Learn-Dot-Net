@@ -1,6 +1,5 @@
 # [Awesome .NET Resources](#about-this-repository)
 
-[![Hits](https://hits.sh/github.com/Mwaseemzakir/awesome-dotnet-resources.svg?style=flat-square&color=79C83D&label=Hits)](https://hits.sh/github.com/Mwaseemzakir/awesome-dotnet-resources/)
 [![GitHub Stars](https://img.shields.io/github/stars/Mwaseemzakir/awesome-dotnet-resources?style=flat-square&logo=github&color=yellow&label=Stars)](https://github.com/Mwaseemzakir/awesome-dotnet-resources/stargazers)
 
 This repository contains the resources list for the .NET Developers which includes the following:
