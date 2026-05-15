@@ -22,6 +22,7 @@ This repository contains the resources list for the .NET Developers which includ
 - [Websites](./docs/websites.md)
 - [AI Tools](./docs/ai-tools.md)
 - [Content Creators](./docs/content-creators.md)
+- [Portfolio Templates](./docs/portfolio-templates.md)
 - [About Author](#about-me)
 
 ## [About Me](#about-me)
